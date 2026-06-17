@@ -1,9 +1,9 @@
 from crewai import Agent, Task, LLM
-from utils.config import GEMINI_API_KEY
+from utils.config import OPENROUTER_API_KEY
 
 llm = LLM(
-    model="gemini/gemini-2.5-flash",
-    api_key=GEMINI_API_KEY
+    model="openrouter/meta-llama/llama-3.1-8b-instruct",
+    api_key=OPENROUTER_API_KEY
 )
 
 def get_jd_analyst_agent():
