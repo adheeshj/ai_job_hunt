@@ -47,7 +47,11 @@ def run_pipeline(job_data, resume_text, user_bio):
     print("\n=== FINAL OUTPUT ===\n")
     print(result)
 
-    return result
+    return {
+    "jd_analysis": str(jd_task.output),
+    "resume": str(resume_task.output),
+    "message": str(message_task.output)
+    }
 
 if __name__ == "__main__":
     run_pipeline()

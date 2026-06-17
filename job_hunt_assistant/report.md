@@ -1,18 +1,24 @@
-```markdown
-### Management and Program Analyst
+### Summary of the Role
 
-**Qualifications:**
-*   Not explicitly detailed in the provided snippet.
+**Senior Procurement Analyst**
+===========================
 
-**Required Skills:**
-*   Program Management (specifically optimal construction program management)
-*   Business Solution Development
-*   Strategic Alignment (aligning solutions with business needs)
-*   Analysis
-*   Reporting
+**Responsibilities**
+--------------------
 
-**Responsibilities:**
-*   Serves in Program Analysis and Evaluation (PAE), Office of Resource Management, Office of Construction and Facilities Management, Office of Acquisition Logistics and Construction.
-*   Contributes to the Service's mission to promote optimal construction program management by developing business solutions that maximize support to VHA, NCA, and VBA projects through aligning solutions with business needs.
-*   Provides analysis and reports to CFM, NCA, and VHA on a variety of topics.
-```
+As a senior Procurement Analyst, you will be responsible for developing, interpreting and implementing acquisition guidance for a branch in the Office of Business Optimization (Supply Chain Risk Management, Acquisition Risk Management or Workforce Division).
+
+### Qualifications
+
+- None explicitly stated in the job posting.
+
+### Required Skills
+
+- None explicitly stated in the job posting.
+
+### Dependencies/Next Steps
+
+- Duty station to be determined upon selection.
+- Government agency is also filling additional vacancies as needed.
+ 
+Note: The job posting does not explicitly state the qualifications, skills required, and responsibilities in detail. The information is very limited. If you require a detailed job description, it is recommended to check the original link on [USAJOBS](https://www.usajobs.gov).
